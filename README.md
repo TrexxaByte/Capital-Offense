@@ -1,5 +1,6 @@
 # Capital-Offense
-U.S. State Capitals and State Nicknames Testing / Quiz Game that records score history and names.
+U.S. State Capitals and State Nicknames Testing / Quiz Game that records the user's name, total testing time , and final score which is written to a data file in the program's document directory. The same file is read to check if the user has ever tested at any point in the past. If any testing history for the user *is* found, the record(s) are used in comparison of the student's performance and progress analysis, if *any* / applicable.
+
 
 ### Purpose & Intent - Details
 _______________________________
